@@ -15,7 +15,7 @@ CS 3366
 ![Sketch](p2.Chris.Brandt.png)
 
 ### B:
-sdfsdf
+![Sketch](p2.Chris.Brandt.gif)
 
 ### A:
 sdfsf
