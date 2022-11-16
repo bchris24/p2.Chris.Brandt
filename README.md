@@ -2,9 +2,9 @@
 CS 3366
 
 ### Links
-[Presentation page](https://huyen-nguyen.github.io/hci-template) (e.g. https://huyen-nguyen.github.io/hci-template, contains content of this README)
+[Presentation page](https://bchris24.github.io/p2.Chris.Brandt/) 
 
-[GitHub repository]([https://github.com/huyen-nguyen/hci-template](https://github.com/bchris24/p2.Chris.Brandt))
+[GitHub repository](https://github.com/bchris24/p2.Chris.Brandt)
 
 [Demo](https://bchris24.io/p2.chris.brandt/demo.html) 
 
