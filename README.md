@@ -6,7 +6,7 @@ CS 3366
 
 [GitHub repository](https://github.com/bchris24/p2.Chris.Brandt)
 
-[Demo](https://bchris24.io/p2.chris.brandt/demo.html) 
+[Demo](https://bchris24.github.io/p2.chris.brandt/demo.html) 
 
 [Video (optional)](https://www.youtube.com/) (e.g. https://www.youtube.com/embed/uilkmUoXoLU - embed link)
 
