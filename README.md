@@ -12,7 +12,7 @@ CS 3366
 
 
 ### C:
-![Sketch](p2.chris.brandt.png)
+![Sketch](p2.Chris.Brandt.png)
 
 ### B:
 sdfsdf
